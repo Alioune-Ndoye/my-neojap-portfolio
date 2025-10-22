@@ -27,7 +27,7 @@ export function Projects() {
       image: "profile.jpg",
       technologies: ["React", "Node.js", "MongoDB", "Stripe", "Redis"],
       liveUrl: "https://mern-food-delivery-app-frontend-wmbb.onrender.com/",
-      githubUrl: "https://github.com",
+      githubUrl: "https://github.com/Alioune-Ndoye/my-neojap-portfolio",
       highlights: ["50% faster loading", "99.9% uptime", "10k+ users"]
     },
     {
