@@ -26,7 +26,7 @@ export function Projects() {
       description: "A modern, responsive e-commerce platform built with React and Node.js. Features include real-time inventory, payment processing, and admin dashboard with advanced analytics.",
       image: "profile.jpg",
       technologies: ["React", "Node.js", "MongoDB", "Stripe", "Redis"],
-      liveUrl: "https://google-books-o5hg.onrender.com/",
+      liveUrl: "https://mern-food-delivery-app-frontend-wmbb.onrender.com/",
       githubUrl: "https://github.com",
       highlights: ["50% faster loading", "99.9% uptime", "10k+ users"]
     },
