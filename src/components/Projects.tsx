@@ -24,7 +24,7 @@ export function Projects() {
     {
       title: "E-Commerce Platform",
       description: "A modern, responsive e-commerce platform built with React and Node.js. Features include real-time inventory, payment processing, and admin dashboard with advanced analytics.",
-      image: "profile.jpg",
+      image: "https://mern-food-delivery-app-frontend-wmbb.onrender.com/",
       technologies: ["React", "Node.js", "MongoDB", "Stripe", "Redis"],
       liveUrl: "https://mern-food-delivery-app-frontend-wmbb.onrender.com/",
       githubUrl: "https://github.com/Alioune-Ndoye/my-neojap-portfolio",
